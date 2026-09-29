@@ -1,0 +1,10 @@
+node_modules
+.next
+.env
+artifacts
+cache
+typechain-types
+coverage
+deployments
+next-env.d.ts
+*.tsbuildinfo
